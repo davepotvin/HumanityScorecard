@@ -1,6 +1,6 @@
 import sqlite3
 import pandas as pd
-from main import *
+from app import *
 
 # taking a one big table approach here to keep things simple, no normalization
 
